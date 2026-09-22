@@ -40,14 +40,15 @@ export function AppLayout() {
 
   return (
     <div className="min-h-screen grid grid-cols-[230px_1fr] bg-slate-50 dark:bg-[#080c14] text-slate-900 dark:text-slate-100 transition-colors duration-200">
-      {/* Sidebar */}
+          {/* Sidebar */}
       <aside className="border-r border-slate-200 dark:border-slate-800/80 bg-white dark:bg-[#0d121f] flex flex-col shadow-sm">
-              <div className="flex items-center gap-2">
-         <span className="h-2 w-2 rounded-full bg-blue-600 dark:bg-blue-500 animate-pulse flex-shrink-0"></span>
-         <div className="font-mono text-[11px] font-bold tracking-wider text-blue-600 dark:text-blue-400">
-           TRACEX BY CYBER AURORS
-         </div>
-       </div>
+        <div className="px-4 py-4 border-b border-slate-200 dark:border-slate-800/80">
+          <div className="flex items-center gap-2">
+            <span className="h-2 w-2 rounded-full bg-blue-600 dark:bg-blue-500 animate-pulse flex-shrink-0"></span>
+            <div className="font-mono text-[11px] font-bold tracking-wider text-blue-600 dark:text-blue-400">
+              TRACEX BY CYBER AURORS
+            </div>
+          </div>
           <div className="text-sm font-bold text-slate-950 dark:text-slate-100 mt-1.5 leading-tight">
             Cyber Threat Attribution
           </div>
