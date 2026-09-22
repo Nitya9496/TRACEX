@@ -1,0 +1,142 @@
+[
+  {
+    "id": "WLT-001",
+    "actor_id": "ACT-001",
+    "address": "syn1NexusClusterWallet001AAAAAA-001",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-02T18:11:00Z"
+  },
+  {
+    "id": "WLT-002",
+    "actor_id": "ACT-002",
+    "address": "syn1qcjcLEFAdjtZ3RcDc7FNJfq7fE2M-002",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-07T12:00:00Z"
+  },
+  {
+    "id": "WLT-003",
+    "actor_id": "ACT-003",
+    "address": "syn1NUrxmxuPc5t99XzCUUBjsNYTKBX8-003",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-14T12:00:00Z"
+  },
+  {
+    "id": "WLT-004",
+    "actor_id": "ACT-004",
+    "address": "syn1TbZYajWnGi5pwqnTPtyBdLdStoQf-004",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-11T12:00:00Z"
+  },
+  {
+    "id": "WLT-005",
+    "actor_id": "ACT-005",
+    "address": "syn1hjoDJNXMWrTXjthdT4LZ5DgTtdYG-005",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-08T12:00:00Z"
+  },
+  {
+    "id": "WLT-006",
+    "actor_id": "ACT-006",
+    "address": "syn1z5aazxvXqVmqGmm17jS8W1MByGKC-006",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-12T12:00:00Z"
+  },
+  {
+    "id": "WLT-007",
+    "actor_id": "ACT-007",
+    "address": "syn1d8oNKcarJgXjRyqNNZEXJg265o6T-007",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-17T12:00:00Z"
+  },
+  {
+    "id": "WLT-008",
+    "actor_id": "ACT-008",
+    "address": "syn1aMmWiUSiHjFBphEoHxucBSoiTcD3-008",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-31T12:00:00Z"
+  },
+  {
+    "id": "WLT-009",
+    "actor_id": "ACT-009",
+    "address": "syn1zaYgur2TL3VdUUh8nJqexmZtay3Q-009",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-31T12:00:00Z"
+  },
+  {
+    "id": "WLT-010",
+    "actor_id": "ACT-010",
+    "address": "syn1suGqtHW1Ep8nJG1RE9irWZ5rYGhf-010",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-09T12:00:00Z"
+  },
+  {
+    "id": "WLT-011",
+    "actor_id": "ACT-011",
+    "address": "syn1BJ5bgCRpTxGzPnGP3UQEzn4ZgsF2-011",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-16T12:00:00Z"
+  },
+  {
+    "id": "WLT-012",
+    "actor_id": "ACT-012",
+    "address": "syn1iQaFB7hbqsbzjfWLmpP8ZxDQ5914-012",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-03T12:00:00Z"
+  },
+  {
+    "id": "WLT-013",
+    "actor_id": "ACT-013",
+    "address": "syn1BSu9GJNMEh1sxXtFsA6fdnHs8hoY-013",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-24T12:00:00Z"
+  },
+  {
+    "id": "WLT-014",
+    "actor_id": "ACT-014",
+    "address": "syn1aHhBQEvTuj6qAxBQrbrnsbZjiTRg-014",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "WLT-015",
+    "actor_id": "ACT-015",
+    "address": "syn1SharedLotWallet000000000015",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "WLT-016",
+    "actor_id": "ACT-016",
+    "address": "syn1SharedLotWallet000000000015",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-06T12:00:00Z"
+  },
+  {
+    "id": "WLT-017",
+    "actor_id": "ACT-017",
+    "address": "syn1zvfZ1kXGHF311z1Fh9SeENKihV2w-017",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-03T12:00:00Z"
+  },
+  {
+    "id": "WLT-018",
+    "actor_id": "ACT-018",
+    "address": "syn1BYNawyZQiuD1nVja9ACaVSTjz1nM-018",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-04T12:00:00Z"
+  },
+  {
+    "id": "WLT-019",
+    "actor_id": "ACT-019",
+    "address": "syn1HYqK6nvJSxTUTxEEXXarQcxyhDfE-019",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-02T12:00:00Z"
+  },
+  {
+    "id": "WLT-020",
+    "actor_id": "ACT-020",
+    "address": "syn1vyqqwVta8fQuzcvN9n2i41fsD3nK-020",
+    "asset": "SYNTH-COIN",
+    "first_seen": "2025-02-02T12:00:00Z"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ALS-001",
+    "actor_id": "ACT-001",
+    "value": "shadow_x",
+    "first_seen": "2025-02-03T18:11:00Z",
+    "status": "migrated"
+  },
+  {
+    "id": "ALS-002",
+    "actor_id": "ACT-001",
+    "value": "shadow_reborn",
+    "first_seen": "2025-02-04T18:11:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-003",
+    "actor_id": "ACT-001",
+    "value": "nx_drop",
+    "first_seen": "2025-02-05T18:11:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-004",
+    "actor_id": "ACT-002",
+    "value": "frost_vendor",
+    "first_seen": "2025-02-11T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-005",
+    "actor_id": "ACT-002",
+    "value": "frost_closed",
+    "first_seen": "2025-02-12T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-006",
+    "actor_id": "ACT-003",
+    "value": "clockwork_77",
+    "first_seen": "2025-02-20T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-007",
+    "actor_id": "ACT-003",
+    "value": "cw_night",
+    "first_seen": "2025-02-21T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-008",
+    "actor_id": "ACT-004",
+    "value": "amber_rs",
+    "first_seen": "2025-02-19T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-009",
+    "actor_id": "ACT-004",
+    "value": "amber_v2",
+    "first_seen": "2025-02-20T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-010",
+    "actor_id": "ACT-005",
+    "value": "cipher_cartel",
+    "first_seen": "2025-01-18T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-011",
+    "actor_id": "ACT-005",
+    "value": "cc_ops",
+    "first_seen": "2025-01-19T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-012",
+    "actor_id": "ACT-005",
+    "value": "cartel_mirror",
+    "first_seen": "2025-01-08T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-013",
+    "actor_id": "ACT-006",
+    "value": "quiet_drop",
+    "first_seen": "2025-01-13T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-014",
+    "actor_id": "ACT-006",
+    "value": "qd_alt",
+    "first_seen": "2025-01-14T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-015",
+    "actor_id": "ACT-007",
+    "value": "nl_clerk",
+    "first_seen": "2025-01-20T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-016",
+    "actor_id": "ACT-007",
+    "value": "ledger_ops",
+    "first_seen": "2025-01-21T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-017",
+    "actor_id": "ACT-008",
+    "value": "shift_twin",
+    "first_seen": "2025-02-05T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-018",
+    "actor_id": "ACT-008",
+    "value": "st_night",
+    "first_seen": "2025-02-06T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-019",
+    "actor_id": "ACT-009",
+    "value": "grey_scout",
+    "first_seen": "2025-02-07T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-020",
+    "actor_id": "ACT-009",
+    "value": "index_walker",
+    "first_seen": "2025-02-08T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-021",
+    "actor_id": "ACT-010",
+    "value": "vault_stall",
+    "first_seen": "2025-01-18T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-022",
+    "actor_id": "ACT-010",
+    "value": "stall_relist",
+    "first_seen": "2025-01-19T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-023",
+    "actor_id": "ACT-011",
+    "value": "echo_author",
+    "first_seen": "2025-01-27T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-024",
+    "actor_id": "ACT-011",
+    "value": "paste_echo",
+    "first_seen": "2025-01-16T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-025",
+    "actor_id": "ACT-012",
+    "value": "silent_mod",
+    "first_seen": "2025-02-04T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-026",
+    "actor_id": "ACT-012",
+    "value": "board_keeper",
+    "first_seen": "2025-02-05T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-027",
+    "actor_id": "ACT-013",
+    "value": "wire_runner",
+    "first_seen": "2025-01-27T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-028",
+    "actor_id": "ACT-013",
+    "value": "runner_west",
+    "first_seen": "2025-01-28T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-029",
+    "actor_id": "ACT-014",
+    "value": "batch_key",
+    "first_seen": "2025-01-26T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-030",
+    "actor_id": "ACT-014",
+    "value": "keyholder",
+    "first_seen": "2025-01-27T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-031",
+    "actor_id": "ACT-015",
+    "value": "alpha_lot",
+    "first_seen": "2025-02-08T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-032",
+    "actor_id": "ACT-016",
+    "value": "beta_lot",
+    "first_seen": "2025-02-14T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-033",
+    "actor_id": "ACT-017",
+    "value": "banner_shop",
+    "first_seen": "2025-02-12T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-034",
+    "actor_id": "ACT-017",
+    "value": "shop_rebrand",
+    "first_seen": "2025-02-13T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-035",
+    "actor_id": "ACT-018",
+    "value": "desc_mismatch",
+    "first_seen": "2025-02-15T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-036",
+    "actor_id": "ACT-018",
+    "value": "hs_desc",
+    "first_seen": "2025-02-04T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-037",
+    "actor_id": "ACT-019",
+    "value": "fa_regular",
+    "first_seen": "2025-02-03T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-038",
+    "actor_id": "ACT-019",
+    "value": "regular_alt",
+    "first_seen": "2025-02-04T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-039",
+    "actor_id": "ACT-020",
+    "value": "mb_ghost",
+    "first_seen": "2025-02-05T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-040",
+    "actor_id": "ACT-020",
+    "value": "ghost_alt",
+    "first_seen": "2025-02-06T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-041",
+    "actor_id": "ACT-021",
+    "value": "rb_lurk",
+    "first_seen": "2025-01-31T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-042",
+    "actor_id": "ACT-021",
+    "value": "lurk_two",
+    "first_seen": "2025-02-01T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-043",
+    "actor_id": "ACT-022",
+    "value": "aw_courier",
+    "first_seen": "2025-01-30T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-044",
+    "actor_id": "ACT-022",
+    "value": "courier_aw",
+    "first_seen": "2025-01-31T12:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "ALS-045",
+    "actor_id": "ACT-022",
+    "value": "wire_aw",
+    "first_seen": "2025-02-01T12:00:00Z",
+    "status": "active"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "INV-DEMO-001",
+    "name": "Nexus Rebrand \u2014 shadow_x / shadow_reborn",
+    "description": "Demo investigation: correlate shadow_x with shadow_reborn using PGP, wallet, infrastructure, stylometry and behaviour.",
+    "search_identifier": "shadow_x",
+    "identifier_type": "alias",
+    "category": "persona_migration",
+    "priority": "high",
+    "status": "active",
+    "created_at": "2026-09-12T08:00:00Z",
+    "actor_ids": [
+      "ACT-001",
+      "ACT-014",
+      "ACT-002"
+    ],
+    "primary_actor_id": "ACT-001"
+  }
+]

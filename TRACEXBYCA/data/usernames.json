@@ -1,0 +1,272 @@
+[
+  {
+    "id": "USR-001",
+    "actor_id": "ACT-001",
+    "value": "shadow_x",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-002",
+    "actor_id": "ACT-001",
+    "value": "shadow_reborn",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-003",
+    "actor_id": "ACT-001",
+    "value": "nx_drop",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-004",
+    "actor_id": "ACT-002",
+    "value": "frost_vendor",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-005",
+    "actor_id": "ACT-002",
+    "value": "frost_closed",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-006",
+    "actor_id": "ACT-003",
+    "value": "clockwork_77",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-007",
+    "actor_id": "ACT-003",
+    "value": "cw_night",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-008",
+    "actor_id": "ACT-004",
+    "value": "amber_rs",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-009",
+    "actor_id": "ACT-004",
+    "value": "amber_v2",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-010",
+    "actor_id": "ACT-005",
+    "value": "cipher_cartel",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-011",
+    "actor_id": "ACT-005",
+    "value": "cc_ops",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-012",
+    "actor_id": "ACT-005",
+    "value": "cartel_mirror",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-013",
+    "actor_id": "ACT-006",
+    "value": "quiet_drop",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-014",
+    "actor_id": "ACT-006",
+    "value": "qd_alt",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-015",
+    "actor_id": "ACT-007",
+    "value": "nl_clerk",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-016",
+    "actor_id": "ACT-007",
+    "value": "ledger_ops",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-017",
+    "actor_id": "ACT-008",
+    "value": "shift_twin",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-018",
+    "actor_id": "ACT-008",
+    "value": "st_night",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-019",
+    "actor_id": "ACT-009",
+    "value": "grey_scout",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-020",
+    "actor_id": "ACT-009",
+    "value": "index_walker",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-021",
+    "actor_id": "ACT-010",
+    "value": "vault_stall",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-022",
+    "actor_id": "ACT-010",
+    "value": "stall_relist",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-023",
+    "actor_id": "ACT-011",
+    "value": "echo_author",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-024",
+    "actor_id": "ACT-011",
+    "value": "paste_echo",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-025",
+    "actor_id": "ACT-012",
+    "value": "silent_mod",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-026",
+    "actor_id": "ACT-012",
+    "value": "board_keeper",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-027",
+    "actor_id": "ACT-013",
+    "value": "wire_runner",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-028",
+    "actor_id": "ACT-013",
+    "value": "runner_west",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-029",
+    "actor_id": "ACT-014",
+    "value": "batch_key",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-030",
+    "actor_id": "ACT-014",
+    "value": "keyholder",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-031",
+    "actor_id": "ACT-015",
+    "value": "alpha_lot",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-032",
+    "actor_id": "ACT-016",
+    "value": "beta_lot",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-033",
+    "actor_id": "ACT-017",
+    "value": "banner_shop",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-034",
+    "actor_id": "ACT-017",
+    "value": "shop_rebrand",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-035",
+    "actor_id": "ACT-018",
+    "value": "desc_mismatch",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-036",
+    "actor_id": "ACT-018",
+    "value": "hs_desc",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-037",
+    "actor_id": "ACT-019",
+    "value": "fa_regular",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-038",
+    "actor_id": "ACT-019",
+    "value": "regular_alt",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-039",
+    "actor_id": "ACT-020",
+    "value": "mb_ghost",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-040",
+    "actor_id": "ACT-020",
+    "value": "ghost_alt",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-041",
+    "actor_id": "ACT-021",
+    "value": "rb_lurk",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-042",
+    "actor_id": "ACT-021",
+    "value": "lurk_two",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-043",
+    "actor_id": "ACT-022",
+    "value": "aw_courier",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-044",
+    "actor_id": "ACT-022",
+    "value": "courier_aw",
+    "platform_id": "PLT-001"
+  },
+  {
+    "id": "USR-045",
+    "actor_id": "ACT-022",
+    "value": "wire_aw",
+    "platform_id": "PLT-001"
+  }
+]

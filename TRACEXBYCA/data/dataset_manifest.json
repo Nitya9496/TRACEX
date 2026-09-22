@@ -1,0 +1,16 @@
+{
+  "platforms": 10,
+  "actors": 22,
+  "aliases": 45,
+  "usernames": 45,
+  "pgp": 20,
+  "wallets": 20,
+  "emails": 20,
+  "posts": 62,
+  "infrastructure": 15,
+  "relationships": 110,
+  "evidence": 140,
+  "timeline": 164,
+  "investigations": 1,
+  "confidence_weights": 1
+}

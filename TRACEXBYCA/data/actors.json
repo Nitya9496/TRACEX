@@ -1,0 +1,245 @@
+[
+  {
+    "id": "ACT-001",
+    "display_name": "Nexus Cluster",
+    "categories": [
+      "stolen_data",
+      "access_broker"
+    ],
+    "risk_band": "high",
+    "first_observed": "2025-02-02T18:11:00Z",
+    "last_observed": "2026-09-12T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-002",
+    "display_name": "Isolated Vendor",
+    "categories": [
+      "fraud"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-02-07T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-003",
+    "display_name": "Clockwork Poster",
+    "categories": [
+      "malware_affiliate"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-02-14T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-004",
+    "display_name": "Amber Reseller",
+    "categories": [
+      "financial_crime"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-02-11T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-005",
+    "display_name": "Cipher Cartel Node",
+    "categories": [
+      "stolen_data"
+    ],
+    "risk_band": "high",
+    "first_observed": "2025-01-08T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-006",
+    "display_name": "Quiet Drop Operator",
+    "categories": [
+      "unknown"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-01-12T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-007",
+    "display_name": "North Ledger Clerk",
+    "categories": [
+      "financial_crime"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-01-17T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-008",
+    "display_name": "Shift Twin Candidate",
+    "categories": [
+      "malware_affiliate"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-01-31T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-009",
+    "display_name": "Grey Index Scout",
+    "categories": [
+      "access_broker"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-01-31T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-010",
+    "display_name": "Vault Stall",
+    "categories": [
+      "fraud"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-01-09T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-011",
+    "display_name": "Echo Paste Author",
+    "categories": [
+      "stolen_data"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-01-16T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-012",
+    "display_name": "Silent Board Mod",
+    "categories": [
+      "unknown"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-02-03T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-013",
+    "display_name": "Wire Runner",
+    "categories": [
+      "financial_crime"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-01-24T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-014",
+    "display_name": "Batch Key Holder",
+    "categories": [
+      "access_broker"
+    ],
+    "risk_band": "high",
+    "first_observed": "2025-01-21T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-015",
+    "display_name": "Shared-Wallet Alpha",
+    "categories": [
+      "stolen_data"
+    ],
+    "risk_band": "high",
+    "first_observed": "2025-02-01T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-016",
+    "display_name": "Shared-Wallet Beta",
+    "categories": [
+      "stolen_data"
+    ],
+    "risk_band": "high",
+    "first_observed": "2025-02-06T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-017",
+    "display_name": "Banner Leak Shop",
+    "categories": [
+      "fraud"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-02-03T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-018",
+    "display_name": "Descriptor Anomaly",
+    "categories": [
+      "unknown"
+    ],
+    "risk_band": "medium",
+    "first_observed": "2025-02-04T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-019",
+    "display_name": "Forum-A Regular",
+    "categories": [
+      "malware_affiliate"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-02-02T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-020",
+    "display_name": "Marketplace-B Ghost",
+    "categories": [
+      "fraud"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-02-02T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-021",
+    "display_name": "RelayBoard Lurker",
+    "categories": [
+      "unknown"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-01-26T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  },
+  {
+    "id": "ACT-022",
+    "display_name": "AmberWire Courier",
+    "categories": [
+      "financial_crime"
+    ],
+    "risk_band": "low",
+    "first_observed": "2025-01-23T12:00:00Z",
+    "last_observed": "2026-08-20T00:00:00Z",
+    "notes": "Synthetic actor record for investigation rehearsal."
+  }
+]

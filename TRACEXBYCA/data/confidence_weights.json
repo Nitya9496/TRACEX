@@ -1,0 +1,12 @@
+{
+  "exact_identifier": 0.9,
+  "pgp_match": 0.95,
+  "wallet_match": 0.9,
+  "email_match": 0.85,
+  "infrastructure": 0.75,
+  "stylometry": 0.55,
+  "behaviour": 0.5,
+  "alias_similarity": 0.25,
+  "platform_overlap": 0.35,
+  "migration": 0.7
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EML-001",
+    "actor_id": "ACT-001",
+    "value": "act.001@synthetic.invalid",
+    "first_seen": "2025-02-02T18:11:00Z"
+  },
+  {
+    "id": "EML-002",
+    "actor_id": "ACT-002",
+    "value": "act.002@synthetic.invalid",
+    "first_seen": "2025-02-07T12:00:00Z"
+  },
+  {
+    "id": "EML-003",
+    "actor_id": "ACT-003",
+    "value": "act.003@synthetic.invalid",
+    "first_seen": "2025-02-14T12:00:00Z"
+  },
+  {
+    "id": "EML-004",
+    "actor_id": "ACT-004",
+    "value": "act.004@synthetic.invalid",
+    "first_seen": "2025-02-11T12:00:00Z"
+  },
+  {
+    "id": "EML-005",
+    "actor_id": "ACT-005",
+    "value": "act.005@synthetic.invalid",
+    "first_seen": "2025-01-08T12:00:00Z"
+  },
+  {
+    "id": "EML-006",
+    "actor_id": "ACT-006",
+    "value": "act.006@synthetic.invalid",
+    "first_seen": "2025-01-12T12:00:00Z"
+  },
+  {
+    "id": "EML-007",
+    "actor_id": "ACT-007",
+    "value": "act.007@synthetic.invalid",
+    "first_seen": "2025-01-17T12:00:00Z"
+  },
+  {
+    "id": "EML-008",
+    "actor_id": "ACT-008",
+    "value": "act.008@synthetic.invalid",
+    "first_seen": "2025-01-31T12:00:00Z"
+  },
+  {
+    "id": "EML-009",
+    "actor_id": "ACT-009",
+    "value": "act.009@synthetic.invalid",
+    "first_seen": "2025-01-31T12:00:00Z"
+  },
+  {
+    "id": "EML-010",
+    "actor_id": "ACT-010",
+    "value": "act.010@synthetic.invalid",
+    "first_seen": "2025-01-09T12:00:00Z"
+  },
+  {
+    "id": "EML-011",
+    "actor_id": "ACT-011",
+    "value": "act.011@synthetic.invalid",
+    "first_seen": "2025-01-16T12:00:00Z"
+  },
+  {
+    "id": "EML-012",
+    "actor_id": "ACT-012",
+    "value": "act.012@synthetic.invalid",
+    "first_seen": "2025-02-03T12:00:00Z"
+  },
+  {
+    "id": "EML-013",
+    "actor_id": "ACT-013",
+    "value": "act.013@synthetic.invalid",
+    "first_seen": "2025-01-24T12:00:00Z"
+  },
+  {
+    "id": "EML-014",
+    "actor_id": "ACT-014",
+    "value": "act.014@synthetic.invalid",
+    "first_seen": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "EML-015",
+    "actor_id": "ACT-015",
+    "value": "act.015@synthetic.invalid",
+    "first_seen": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "EML-016",
+    "actor_id": "ACT-016",
+    "value": "act.016@synthetic.invalid",
+    "first_seen": "2025-02-06T12:00:00Z"
+  },
+  {
+    "id": "EML-017",
+    "actor_id": "ACT-017",
+    "value": "act.017@synthetic.invalid",
+    "first_seen": "2025-02-03T12:00:00Z"
+  },
+  {
+    "id": "EML-018",
+    "actor_id": "ACT-018",
+    "value": "act.018@synthetic.invalid",
+    "first_seen": "2025-02-04T12:00:00Z"
+  },
+  {
+    "id": "EML-019",
+    "actor_id": "ACT-019",
+    "value": "act.019@synthetic.invalid",
+    "first_seen": "2025-02-02T12:00:00Z"
+  },
+  {
+    "id": "EML-020",
+    "actor_id": "ACT-020",
+    "value": "act.020@synthetic.invalid",
+    "first_seen": "2025-02-02T12:00:00Z"
+  }
+]

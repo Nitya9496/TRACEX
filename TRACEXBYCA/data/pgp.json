@@ -1,0 +1,142 @@
+[
+  {
+    "id": "PGP-001",
+    "actor_id": "ACT-001",
+    "fingerprint": "SYNTH-001-A1B2C3D4E5F60718293A4B5C6D7E8F901234ABCD",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-02T18:11:00Z"
+  },
+  {
+    "id": "PGP-002",
+    "actor_id": "ACT-002",
+    "fingerprint": "SYNTH-002-AAE02D82B8D776C3C11E74E492A1134FA54FDD38",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-07T12:00:00Z"
+  },
+  {
+    "id": "PGP-003",
+    "actor_id": "ACT-003",
+    "fingerprint": "SYNTH-003-3A88701D13EE472AE2DC4A234E5A47CFD2A595FC",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-14T12:00:00Z"
+  },
+  {
+    "id": "PGP-004",
+    "actor_id": "ACT-004",
+    "fingerprint": "SYNTH-004-22205EC4111534D55439DDA23CC457C8373EAED7",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-11T12:00:00Z"
+  },
+  {
+    "id": "PGP-005",
+    "actor_id": "ACT-005",
+    "fingerprint": "SYNTH-005-C1CDF7D9FF02EB775391B3A395DFE73FBBFEA32F",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-08T12:00:00Z"
+  },
+  {
+    "id": "PGP-006",
+    "actor_id": "ACT-006",
+    "fingerprint": "SYNTH-006-91D335D9DD7AD208367CAA0404B0893B06B63565",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-12T12:00:00Z"
+  },
+  {
+    "id": "PGP-007",
+    "actor_id": "ACT-007",
+    "fingerprint": "SYNTH-007-A1C87D78349674E1D90D9BE6008B25B86689C122",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-17T12:00:00Z"
+  },
+  {
+    "id": "PGP-008",
+    "actor_id": "ACT-008",
+    "fingerprint": "SYNTH-008-B97D534B499762E2AF6FB67ED8067BDD133997B3",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-31T12:00:00Z"
+  },
+  {
+    "id": "PGP-009",
+    "actor_id": "ACT-009",
+    "fingerprint": "SYNTH-009-F296B02B601FA07B950102859467C21234E68833",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-31T12:00:00Z"
+  },
+  {
+    "id": "PGP-010",
+    "actor_id": "ACT-010",
+    "fingerprint": "SYNTH-010-8D71131A6DE34FA3BB297FFD6B6963AF6D18704C",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-09T12:00:00Z"
+  },
+  {
+    "id": "PGP-011",
+    "actor_id": "ACT-011",
+    "fingerprint": "SYNTH-011-26D5C9CA8FB6D69D977C04B00CE3A13F5E589E42",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-16T12:00:00Z"
+  },
+  {
+    "id": "PGP-012",
+    "actor_id": "ACT-012",
+    "fingerprint": "SYNTH-012-3DAEC6267C00BB91717C8E8C6DEF790F39309A17",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-03T12:00:00Z"
+  },
+  {
+    "id": "PGP-013",
+    "actor_id": "ACT-013",
+    "fingerprint": "SYNTH-013-B63ED2D7C05F22D3F9835EFAA40330BC07E21F3C",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-24T12:00:00Z"
+  },
+  {
+    "id": "PGP-014",
+    "actor_id": "ACT-014",
+    "fingerprint": "SYNTH-001-A1B2C3D4E5F60718293A4B5C6D7E8F901234ABCD",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-01-21T12:00:00Z"
+  },
+  {
+    "id": "PGP-015",
+    "actor_id": "ACT-015",
+    "fingerprint": "SYNTH-015-D519EEB4B0394282F7BE456F27E426B13527C4FA",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "PGP-016",
+    "actor_id": "ACT-016",
+    "fingerprint": "SYNTH-016-33CBA866218A97321171A4776531C7E57EA89522",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-06T12:00:00Z"
+  },
+  {
+    "id": "PGP-017",
+    "actor_id": "ACT-017",
+    "fingerprint": "SYNTH-017-E22788F8E015206B0F31D19272EEB05575A9E3D4",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-03T12:00:00Z"
+  },
+  {
+    "id": "PGP-018",
+    "actor_id": "ACT-018",
+    "fingerprint": "SYNTH-018-F2E9EE304F705A60606EDDA040749D20B3CCE953",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-04T12:00:00Z"
+  },
+  {
+    "id": "PGP-019",
+    "actor_id": "ACT-019",
+    "fingerprint": "SYNTH-019-131788644611295FE99ABF6D7BCF2EECEE157816",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-02T12:00:00Z"
+  },
+  {
+    "id": "PGP-020",
+    "actor_id": "ACT-020",
+    "fingerprint": "SYNTH-020-DA67F6CB7465AB6AA3EC2ECC28F2772551ED789C",
+    "key_algo": "RSA-4096-SYNTH",
+    "first_seen": "2025-02-02T12:00:00Z"
+  }
+]

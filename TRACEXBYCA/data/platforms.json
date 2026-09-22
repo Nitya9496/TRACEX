@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PLT-001",
+    "name": "Forum-A",
+    "kind": "forum",
+    "network": "hidden_service"
+  },
+  {
+    "id": "PLT-002",
+    "name": "Marketplace-B",
+    "kind": "marketplace",
+    "network": "hidden_service"
+  },
+  {
+    "id": "PLT-003",
+    "name": "RelayBoard",
+    "kind": "forum",
+    "network": "hidden_service"
+  },
+  {
+    "id": "PLT-004",
+    "name": "VaultExchange",
+    "kind": "marketplace",
+    "network": "hidden_service"
+  },
+  {
+    "id": "PLT-005",
+    "name": "CipherChat",
+    "kind": "messaging",
+    "network": "hidden_service"
+  },
+  {
+    "id": "PLT-006",
+    "name": "GreyIndex",
+    "kind": "directory",
+    "network": "mixed"
+  },
+  {
+    "id": "PLT-007",
+    "name": "NorthLedger",
+    "kind": "marketplace",
+    "network": "hidden_service"
+  },
+  {
+    "id": "PLT-008",
+    "name": "EchoPaste",
+    "kind": "paste",
+    "network": "clearnet_mirror"
+  },
+  {
+    "id": "PLT-009",
+    "name": "SilentDrop",
+    "kind": "forum",
+    "network": "hidden_service"
+  },
+  {
+    "id": "PLT-010",
+    "name": "AmberWire",
+    "kind": "messaging",
+    "network": "hidden_service"
+  }
+]
