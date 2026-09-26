@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd frontend && npm install && npm run build",
-  "outputDirectory": "frontend/dist",
+  "buildCommand": "cd TRACEXBYCA/frontend && npm install && npm run build",
+  "outputDirectory": "TRACEXBYCA/frontend/dist",
   "rewrites": [
     {
       "source": "/(.*)",
